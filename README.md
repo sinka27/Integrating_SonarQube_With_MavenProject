@@ -49,7 +49,7 @@ SonarQube is a valuable tool for maintaining code quality, reducing technical de
   * Select your project's main language under Run analysis on your project, and follow the instructions to analyze your project. Here you'll download and execute a scanner on your code (if you're using Maven or Gradle, the scanner is automatically downloaded).
 
 ## Links
-* GitHub: 
+* GitHub: https://github.com/sinka27/Integrating_SonarQube_With_MavenProject
 
 ## Credits:
 * Parul Raj
